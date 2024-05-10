@@ -10,4 +10,3 @@ var productTitle = "T-shirt";
 var quantity = 5;
 document.write(visitorName + " ordered " + quantity + " " + productTitle + "(s) on XYZ Clothing store."); 
 var message = "This is a custom alert message.";
-alert('<div style="border: 2px solid black; padding: 10px;">' + message + '</div>');
